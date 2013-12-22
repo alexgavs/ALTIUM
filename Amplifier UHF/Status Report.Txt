@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:00:48 AM On 12/2/2013
+
+Output: VHDL File
+Type  : VHDL
+From  : Project [PCB_Project1.PrjPCB]
+   Generated File[PCB_Project1.VHD]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:00:49 AM On 12/2/2013
